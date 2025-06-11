@@ -1,6 +1,6 @@
-# Login - auth
+# Login 
 
-Estrutura de autenticação para o projeto **Login**.
+Estrutura do projeto **Login**.
 ## Atividade em grupo de até 4 integrantes.
 - Clonar este repositório.
 - Testar a api com **insomnia**.
@@ -41,7 +41,7 @@ Este diagrama oferece uma visão clara de como o middleware de autenticação at
 
 ## Como Testar
 
-Para testar a API localmente:
+Para testar a API:
 
 1.  Clone o repositório.
 2.  Navegue até o diretório do projeto (onde `package.json` está localizado) via terminal.
