@@ -1,9 +1,5 @@
 # Login - auth
 
-
-
-# Integrantes do grupo: Rodrigo, Willian, Fernando e Mellyssa
-
 Estrutura de autenticação para o projeto **Login**.
 ## Atividade em grupo de até 4 integrantes.
 - Clonar este repositório.
