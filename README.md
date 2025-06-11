@@ -1,7 +1,6 @@
 # Login 
 
 Estrutura do projeto **Login**.
-## Atividade em grupo de até 4 integrantes.
 - Clonar este repositório.
 - Testar a api com **insomnia**.
 - Estudar e documentar a estrutura do projeto.
